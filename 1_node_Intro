@@ -1,0 +1,13 @@
+console.log =
+console.log inspect karne bala or normal vs code mai likhne bala dono mai diffrence hota h
+inspect bala console.log browser ka function hota h 
+and 2 bala nodejs ka module hota h
+
+---------------------------
+== ka matlb dono value equla h ya ni usko check karta h 
+===ka matlab quual or type dono check karta h
+
+-----------------nodemon
+nodemon ek bar code run hone ke bad apne apse rerun ho jata h 
+npm i nodemon -g = for global install
+npm i nodemon = for local
